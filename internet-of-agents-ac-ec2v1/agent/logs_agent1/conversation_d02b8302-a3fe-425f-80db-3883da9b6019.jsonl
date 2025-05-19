@@ -1,0 +1,2 @@
+{"timestamp": "2025-05-12T14:15:12.685184", "conversation_id": "d02b8302-a3fe-425f-80db-3883da9b6019", "path": "agent1", "source": "Local user to Agent agent1", "message": "@mihirsheth hello"}
+{"timestamp": "2025-05-12T14:15:15.053053", "conversation_id": "d02b8302-a3fe-425f-80db-3883da9b6019", "path": "agent1", "source": "Claude agent1", "message": "Greetings. I hope this message finds you well."}

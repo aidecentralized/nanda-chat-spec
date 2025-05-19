@@ -1,0 +1,2 @@
+{"timestamp": "2025-05-12T14:03:01.410914", "conversation_id": "22bb85de-c6c4-45f8-a6a3-49e7ad3491d7", "path": "agent1", "source": "Local user to Agent agent1", "message": "@mihirsheth hello whats your fav food?"}
+{"timestamp": "2025-05-12T14:03:05.128317", "conversation_id": "22bb85de-c6c4-45f8-a6a3-49e7ad3491d7", "path": "agent1", "source": "Claude agent1", "message": "What types of foods do you most enjoy? I'm curious to learn about your culinary preferences."}
