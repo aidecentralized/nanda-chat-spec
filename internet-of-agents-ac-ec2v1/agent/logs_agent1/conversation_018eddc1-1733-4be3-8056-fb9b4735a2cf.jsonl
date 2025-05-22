@@ -1,2 +1,0 @@
-{"timestamp": "2025-05-12T14:28:40.725256", "conversation_id": "018eddc1-1733-4be3-8056-fb9b4735a2cf", "path": "agent1", "source": "Local user to Agent agent1", "message": "@mihirsheth Hello. whats the weather today"}
-{"timestamp": "2025-05-12T14:28:46.197511", "conversation_id": "018eddc1-1733-4be3-8056-fb9b4735a2cf", "path": "agent1", "source": "Claude agent1", "message": "What is the current weather forecast for our area? I would appreciate that information when convenient."}
